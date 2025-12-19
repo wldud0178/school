@@ -1,6 +1,8 @@
+# [school]
 
-[school]
-https://github.com/wldud0178/school.git
+### https://github.com/wldud0178/school.git
+
+```
 
 echo "# school" >> README.md
 git init
